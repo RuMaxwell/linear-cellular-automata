@@ -1,0 +1,7 @@
+# Compiling productions
+src/*.js
+test/*.js
+
+# vscode documemtations
+.vscode
+
